@@ -1,0 +1,4 @@
+Hola raiz version 1:
+
+Todo bien, estoy aprendiendo muchas cosas de git y voy anotando mis apuntes.
+¿Tu como estas?. ¿Has aprendido alguna novedad?
