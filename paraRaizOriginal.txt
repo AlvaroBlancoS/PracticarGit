@@ -1,2 +1,8 @@
 Hola raiz original:
-¿Como te encuentras ahora?, espero que estes bien y un saludo
+Me alegro que estes aprendiendo de git. Yo tambien lo estoy y es verdad que tengo
+anotar mis apuntes para no olvidar. Por cierto, esta tarde quedamos a por unas
+cervezas.
+
+Nos vemos pronto
+
+PD: Me debes una cerveza guapo
